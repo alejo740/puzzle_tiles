@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Your Game</title>
+
+  <!--<script src="js/jsembed.js"></script>-->
+  <script src="http://www.nick-q.mtvi.com/nick-assets/games/jsembed/jsembed.js" type="text/javascript"></script>
+  <script type="text/javascript" >			
+		// Parameters configure jsembed itself.
+		var params = {
+			//base: "http://teravisiongames.com/tmnt/web", // base url of all content. Defaults ""
+			base: "", // base url of all content. Defaults ""
+			api: "flambe", // supported custom apis are defined in jsembed. Defaults none.
+			autoscale: "true", // update window.canvasScale on window resize? Defaults true.
+			//indexroot: "true", // use index url as path root? If false, uses domain root instead. Defaults false (uses domain root).
+			//libs: ["flambe.js"] // array of libs to embed before trying to launch app. Defaults []
+		}
+		// Attributes will be set on the embed target for use by the app. "base" will be set as well.
+		var attr = {				
+			
+		};
+		
+		jsembed.embed("flambe.js", "_contentGame", "960", "560", params, attr);
+	</script>
+	
+</head>
+<body>
+
+<div id="_contentGame"></div>
+
+</body>
+</html>

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<!-- 
+	* Fonts can be found on assets/assets_general/fonts
+	* Please, put your fonts files on that folder and in the fontName attribute 
+ -->
+<localization>
+	<!-- LOADING -->
+	<string id="loading_scenes|loading_text" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/60px/TMNToriginalFont_60" description="">
+        <![CDATA[LOADING...]]>
+    </string>
+	
+	
+	
+	<!-- MAIN MENU -->
+	<string id="mainmenu|start_message_non_flash" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="START MESSAGE IN THE MAIN MENU WHEN NOT RUNNING IN FLASH">
+        <![CDATA[Tap anywhere to play]]>
+    </string>
+
+	<string id="mainmenu|start_message_flash" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="START MESSAGE IN THE MAIN MENU WHEN RUNNING IN FLASH">
+        <![CDATA[Click anywhere to play]]>
+    </string>
+	
+	
+	
+	
+	<!-- HISTORY -->
+	<string id="history|text1" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[Hi team! This is my newest invention: The Booyashaka
+		Blitz machine! Thanks Mikey for the name…]]>
+    </string>
+	<string id="history|text2" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[It generates outstanding holograms of our enemies
+		for us to train against. Let’s try to beat as
+		many as possible and make Master Splinter proud!]]>
+    </string>
+	
+	
+	
+	
+	<!-- POPUP PUZZLE -->	
+	<string id="gameplay|popup|turtle_attack" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="">
+        <![CDATA[TURTLE
+		POWER!]]>
+    </string>
+	<string id="gameplay|popup|enemy_attack" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="">
+        <![CDATA[ENEMY
+		ATTACK!]]>
+    </string>
+	<string id="gameplay|popup|enemy_defeated" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="">
+        <![CDATA[NEW
+		ENEMY]]>
+    </string>
+	
+	
+	
+	
+	
+	
+	<!-- HELP -->
+	<string id="help|title" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[HELP]]>
+    </string>
+	<string id="help|ok_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[OK]]>
+    </string>
+	<string id="help|number1" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[1]]>
+    </string>
+	<string id="help|number1_text" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[Connect tokens of the 
+		same color to attack. 
+		Each color represents
+		a turtle.]]>
+    </string>
+	
+	<string id="help|number2" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[2]]>
+    </string>
+	<string id="help|number2_text" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[Use the green Splinter
+		token to connect different
+		colored tokens.
+		The more you join, the more
+		powerful you attack!]]>
+    </string>
+	
+	<string id="help|number3" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[3]]>
+    </string>
+	<string id="help|number3_text" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[Every enemy has an attack
+		bar. When it is full the
+		enemy will attack you.
+		Defeat them quickly!]]>
+    </string>
+	
+	
+	
+	
+	
+	<!-- TUTORIAL -->
+	<string id="tutorial|skip_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="SKIP BUTTON TEXT IN THE TUTORIAL SCREEN">
+        <![CDATA[SKIP]]>
+    </string>
+	<string id="tutorial|text_step1" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="TEXT STEP 1 IN THE TUTORIAL SCREEN">
+        <![CDATA[Connect tokens of the same color
+		to attack. Each color represents
+		a turtle.]]>
+    </string>
+	<string id="tutorial|text_step2" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="TEXT STEP 2 IN THE TUTORIAL SCREEN">
+        <![CDATA[Use the green Splinter token to
+		connect different colored tokens.
+		The more you join, the more
+		powerful you attack!]]>
+    </string>
+	<string id="tutorial|text_step3" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="TEXT STEP 3 IN THE TUTORIAL SCREEN">
+        <![CDATA[Every enemy has an attack bar. 
+		When it is full the enemy will
+		attack you. 
+		Defeat them quickly!]]>
+    </string>
+	
+	
+	
+	
+	
+	<!-- PAUSE -->
+	<string id="gameplay|pause|title_pause" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/60px/TMNToriginalFont_60" description="TITLE LABEL IN THE PAUSE MENU">
+        <![CDATA[PAUSE]]>
+    </string>
+	
+	<string id="gameplay|pause|resume_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="RESUME BUTTON IN THE PAUSE MENU">
+        <![CDATA[RESUME]]>
+    </string>
+
+	<string id="gameplay|pause|sound_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="SOUND BUTTON IN THE PAUSE MENU">
+        <![CDATA[SOUND]]>
+    </string>
+
+	<string id="gameplay|pause|help_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HELP BUTTON IN THE PAUSE MENU">
+        <![CDATA[HELP]]>
+    </string>
+
+	<string id="gameplay|pause|quit_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="QUIT BUTTON IN THE PAUSE MENU">
+        <![CDATA[QUIT]]>
+    </string>
+
+	<string id="gameplay|pause|top_score" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORE LABEL IN THE PAUSE MENU">
+        <![CDATA[TOP SCORE]]>
+    </string>
+	
+	<string id="gameplay|pause|score" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="YOUR SCORE LABEL IN THE PAUSE MENU">
+        <![CDATA[empty]]>
+    </string>
+	
+	<string id="gameplay|pause|popupExit|cancel_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="LABEL FOR CANCEL BUTTON IN THE EXIT POPUP">
+         <![CDATA[NO]]>
+    </string>
+
+	<string id="gameplay|pause|popupExit|accept_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="LABEL FOR ACCEPT BUTTON IN THE EXIT POPUP">
+         <![CDATA[YES]]>
+    </string>
+    
+	<string id="gameplay|pause|popupExit|areyoursure_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="ARE YOUR SURE YOU WANT TO LEAVE LABEL FOR THE EXIT POPUP">
+         <![CDATA[ARE YOU SURE?]]>
+    </string>
+	
+	
+	
+	
+	
+	<!-- RESULTS -->
+	<string id="gameplay|results|title" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/60px/TMNToriginalFont_60" description="TITLE LABEL IN RESULTS SCREEN">
+        <![CDATA[RESULTS]]>
+    </string>
+	
+	<string id="gameplay|results|your_score_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="YOUR SCORE LABEL IN RESULTS SCREEN">
+        <![CDATA[YOUR SCORE]]>
+    </string>
+	<string id="gameplay|results|score" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR SCORE LABEL IN RESULTS SCREEN">
+        <![CDATA[empty]]>
+    </string>
+	
+	<string id="gameplay|results|enemies_defeated" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR SCORE LABEL IN RESULTS SCREEN">
+        <![CDATA[empty]]>
+    </string>
+	<string id="gameplay|results|enemies_defeated_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="ENEMIES DEFEATED LABEL IN RESULTS SCREEN">
+        <![CDATA[ENEMIES
+		DEFEATED]]>
+    </string>
+	
+	<string id="gameplay|results|your_topscores_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[Your top Scores]]>
+    </string>
+	
+	<string id="gameplay|results|topscores_number_label_1" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[1]]>
+    </string>
+	<string id="gameplay|results|topscores_1" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[empty]]>
+    </string>
+	
+	<string id="gameplay|results|topscores_number_label_2" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[2]]>
+    </string>
+	<string id="gameplay|results|topscores_2" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[empty]]>
+    </string>
+	
+	<string id="gameplay|results|topscores_number_label_3" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[3]]>
+    </string>
+	<string id="gameplay|results|topscores_3" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="YOUR TOP SCORES LABEL IN RESULTS SCREEN">
+        <![CDATA[empty]]>
+    </string>
+	
+	
+	<string id="gameplay|results|quit_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="QUIT BUTTON IN RESULTS SCREEN">
+        <![CDATA[QUIT]]>
+    </string>
+	
+	<string id="gameplay|results|play_again_button" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="PLAY AGAIN BUTTON IN RESULTS SCREEN">
+        <![CDATA[PLAY AGAIN]]>
+    </string>
+	
+	<string id="gameplay|results|new_highscore_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="NEW HIGHSCORE CONGRATS MESSAGE LABEL IN RESULTS SCREEN">
+        <![CDATA[NEW
+		HIGH SCORE]]>
+    </string>
+	
+	
+	
+	
+	
+	<!-- HUD -->
+	<string id="gameplay|hud|player|hp" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD SCORE LABEL">
+		<![CDATA[empty]]>
+    </string>
+	<string id="gameplay|hud|enemy|hp" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD SCORE LABEL">
+		<![CDATA[empty]]>
+    </string>
+	<string id="gameplay|hud|label|score_label" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD SCORE LABEL">
+         <![CDATA[SCORE]]>
+    </string>
+	<string id="gameplay|hud|label|score" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/45px/TMNToriginalFont_45" description="HUD SCORE">
+         <![CDATA[empty]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|MOUSERS" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME MOUSERS">
+         <![CDATA[M.O.U.S.E.R.S]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|RAHZAR" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME RAHZAR">
+         <![CDATA[RAHZAR]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|FOOTBOT" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME FOOTBOT">
+         <![CDATA[FOOTBOT]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|KRANG" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME KRANG">
+         <![CDATA[KRANG]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|SHREDDER" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME SHREDDER">
+         <![CDATA[SHREDDER]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|SNAKEWEED" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME SNAKEWEED">
+         <![CDATA[SNAKEWEED]]>
+    </string>
+	
+	<string id="gameplay|hud|enemyName|SPIDERBYTEZ" fontScale="1" offsetX="0" offsetY="0" fontName="fonts/Original/30px/TMNToriginalFont_30" description="HUD ENEMY NAME SPIDERBYTEZ">
+         <![CDATA[SPIDERBYTEZ]]>
+    </string>
+	
+	
+	
+</localization>

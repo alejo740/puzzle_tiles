@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+	<!-- Debug activators for QA -->
+	<debug>
+		<!-- Cycle between enemies with buttons. Values are: enabled and disabled -->
+		<cycle_enemies>enabled</cycle_enemies>
+	</debug>
+	<!-- Activators. Values are: enabled and disabled -->
+	<activators>
+		<high_scores>enabled</high_scores>
+		<nick_points>enabled</nick_points>
+		<universal_end_game_screen>enabled</universal_end_game_screen>
+		<achievements>enabled</achievements>
+	</activators>
+</config>

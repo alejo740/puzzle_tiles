@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<credits>
+    <studio name="Nickelodeon">
+        <credit>
+            <title>Creator AND Executive Producer</title>
+            <name>Michael Bay</name>
+        </credit>
+        <credit>
+            <title>Producer AND Game Design</title>
+            <name>George Lucas</name>
+        </credit>
+        <credit>
+            <title>Special Thanks</title>
+            <name>Leonardo</name>
+            <name>Donatello</name>
+            <name>Michelangelo</name>
+            <name>Raphael</name>
+        </credit>
+    </studio>
+    <studio name="NDi Teravision">
+        <credit>
+            <title>Director of Product Development</title>
+            <name>Enrique Fuentes</name>
+        </credit>
+        <credit>
+            <title>Director of Production</title>
+            <name>Luis Daniel Zambrano</name>
+        </credit>
+		<credit>
+            <title>Associate Producers</title>
+            <name>Haymara Palma</name>
+			<name>Teresa Munoz</name>			
+        </credit>
+		<credit>
+            <title>Game Design</title>
+            <name>Enrique Fuentes</name>
+			<name>Luis Daniel Zambrano</name>			
+        </credit>		
+        <credit>
+            <title>Programmers</title>
+            <name>Edwin Cobos</name>
+			<name>Wilson Ariza</name>
+            <name>Jose De Jesus</name>
+        </credit>
+        <credit>
+            <title>Lead Artist</title>
+            <name>Paul Pereda</name>
+        </credit>		
+        <credit>
+            <title>Artist</title>
+            <name>Ronald Reyes</name>
+        </credit>
+        <credit>
+            <title>Lead Animator AND Technical Artist</title>
+            <name>Daniel J. Lezama</name>
+        </credit>		
+        <credit>
+            <title>Quality Assurance Leader</title>
+            <name>Teresa Munoz</name>
+        </credit>
+		<credit>
+            <title>Special Thanks</title>
+            <name>Cyndi Ordonez</name>
+        </credit>
+    </studio>	
+</credits>
